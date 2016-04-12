@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="G:\Centennial\Semester 3\Web application\ProjectTemplate\ProjectTemplate\ProjectTemplate\ProjTemplate\Bin\BookMyBookTest.dll" total="0" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2016-04-08" time="06:27:53">
+  <environment nunit-version="2.6.4.14350" clr-version="2.0.50727.8670" os-version="Microsoft Windows NT 6.2.9200.0" platform="Win32NT" cwd="C:\Program Files (x86)\NUnit 2.6.4\bin" machine-name="LENOVO-PC" user="meet" user-domain="LENOVO-PC" />
+  <culture-info current-culture="en-CA" current-uiculture="en-US" />
+  <test-suite type="Assembly" name="G:\Centennial\Semester 3\Web application\ProjectTemplate\ProjectTemplate\ProjectTemplate\ProjTemplate\Bin\BookMyBookTest.dll" executed="True" result="Inconclusive" success="False" time="0.029" asserts="0" />
+</test-results>
